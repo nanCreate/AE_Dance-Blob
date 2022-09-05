@@ -17,6 +17,6 @@ Recreated animation of a dancing blob emoji. It is made in the form of shapes, s
 
 
 ## 🚧 Requirements
-Adobe After Effects `v18.2.1 (Build 8)^` (Created on this version)
+Adobe After Effects `CC 2021 v18.2.1 (Build 8)^` (Created on this version)
 
 [![download](https://img.shields.io/badge/download%20project-2ea44f?style=for-the-badge&logo=Adobe+After+Effects&logoColor=%23FFFFFF)](https://github.com/nanCreate/AE_Dance-Blob/archive/refs/heads/main.zip)
